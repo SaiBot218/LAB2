@@ -1,2 +1,5 @@
 i=int(input())
 print("number",i)
+print("number",i)
+print("number",i)
+print("number",4*i)
